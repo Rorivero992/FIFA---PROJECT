@@ -62,7 +62,7 @@ To bridge the analysis back to age, we performed individual linear regressions f
 | Goalkeeping     | 0.000   | 0.0449      |
 <br/><br/>
 
-![RELACION OVA AGE](images/age_ova_blue.png)
+![RELACION_OVA_AGE](IMAGES/age_ova_blue.png)
 <br/><br/>
 
 <font size="5">**Conclusions**</font>
